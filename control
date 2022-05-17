@@ -1,0 +1,11 @@
+Package: com.ps.igetmorechoices
+Name: IGetMoreChoices
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: More than 4 choices for IG Quiz.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Depiction: https://poomsmart.github.io/repo/depictions/igetmorechoices.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/igetmorechoices.json
